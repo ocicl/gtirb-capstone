@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/grammatech/gtirb-capstone.git   |
-| commit  | 2c91b81  |
-| systems | gtirb-capstone |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/grammatech/gtirb-capstone.git |
+| commit  | a3592af                                              |
+| systems | gtirb-capstone                                       |
+|---------+------------------------------------------------------|
