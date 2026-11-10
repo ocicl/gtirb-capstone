@@ -4,7 +4,7 @@
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/grammatech/gtirb-capstone.git |
-| commit  | a3592af                                              |
+| commit  | 97ef73d                                              |
 | systems | gtirb-capstone                                       |
 |---------+------------------------------------------------------|
   
